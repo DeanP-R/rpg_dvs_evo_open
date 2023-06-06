@@ -21,4 +21,4 @@ sudo apt-get install            \
 
 
 echo "Second, we clone the evo dependencies"
-vcs-import < rpg_dvs_evo_open-master/dependencies.yaml
+vcs-import < rpg_dvs_evo_open-fork/dependencies.yaml
