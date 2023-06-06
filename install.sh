@@ -12,7 +12,7 @@ sudo apt-get install            \
     libcaer-dev                 \
     libfftw3-dev libfftw3-doc   \
     libglew-dev                 \
-    libopencv-dev               \
+   #libopencv-dev               \
     libyaml-cpp-dev             \
     python-catkin-tools         \
     ros-$1-camera-info-manager  \
